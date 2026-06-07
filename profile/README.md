@@ -1,4 +1,10 @@
-# Yamumi
+<p align="center">
+    <img src="./appicon@2x.png" width="96" height="96" alt="Yamumi">
+</p>
+
+<h1 align="center">
+    Yamumi
+</h1>
 
 **Компактный плеер Яндекс Музыки для тех, кто занят делом.**
 
